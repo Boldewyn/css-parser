@@ -20,4 +20,5 @@ src/css-lexer.php: src/css-lexer.plex
 test:
 
 clean:
+	rm -f src/css-parser.php src/css-lexer.php src/css-parser.out
 
