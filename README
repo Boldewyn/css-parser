@@ -1,0 +1,24 @@
+                                   CSS Parser
+
+                          A CSS parser written in PHP
+
+
+                                      ===
+
+
+Why on earth would anyone need that?
+
+For example: Stylesheet validation, minimizing and compressing, stripping
+comments, adding and modifying reliably, ...
+
+
+Status?
+
+An early alpha. At the moment only the lexer works satisfactorily. But that
+shouldn't discourage you from jumping aboard and helping out.
+
+
+License?
+
+The code in the build directory is distributed under the GPL v2 or later and
+an MIT-like license.
