@@ -12,6 +12,12 @@ For example: Stylesheet validation, minimizing and compressing, stripping
 comments, adding and modifying reliably, ...
 
 
+Technology?
+
+I'm relying on the PHP ParserGenerator and PHP LexerGenerator libraries from
+PEAR. They are also used successfully by the famous Smarty template engine.
+
+
 Status?
 
 An early alpha. At the moment only the lexer works satisfactorily. But that
